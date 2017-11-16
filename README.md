@@ -2,9 +2,9 @@
 
 Start my journey of learning
 
-this is  start my code trip :-)
+> this is  start my code trip :-)
 
-###learnnning  
+> ##learnnning  
 
   *  linux 
   *  kernel 
