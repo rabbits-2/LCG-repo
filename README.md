@@ -1,5 +1,14 @@
-## learnning
-Start my learnning ship
+# Learnning
+
+Start my journey of learning
+
 this is  start my code trip :-)
 
-learnnning  linux kernel python raspberry and so on.
+###learnnning  
+
+  *  linux 
+  *  kernel 
+  *  python 
+  *  Web
+  *  raspberry 
+  *  and so on.
