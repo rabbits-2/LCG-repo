@@ -3,4 +3,4 @@ debian apt source.list 镜像源格式
 
 deb  ###   http://mirrors.163.com/debian/ ###   wheezy     ###   main non-free contrib
 
-deb  ###         mirrors镜像源 地址       ###   版本代号   ###   限定词
+deb  ###         mirrors镜像源 地址        ###   版本代号   ###   限定词
